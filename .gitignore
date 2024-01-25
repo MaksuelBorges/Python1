@@ -158,3 +158,29 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+hackathon/.idea/hackathon.iml
+hackathon/.idea/inspectionProfiles/profiles_settings.xml
+hackathon/.idea/misc.xml
+hackathon/.idea/modules.xml
+hackathon/main.py
+Python/.idea/inspectionProfiles/profiles_settings.xml
+Python/.idea/misc.xml
+Python/.idea/modules.xml
+Python/.idea/Python.iml
+Python/.idea/workspace.xml
+Python/Python/Curso de Python/Aula/lista.txt
+Python/Python/Curso de Python/Aula/novo_txt
+Python/Python/Curso de Python/Aula/texto.txt
+Python/Python/Curso de Python/Aula/Tratamento de erro/tratamento_erro4.py
+Python/Python/Curso de Python/modulo1/estatisticas.py
+Python/Python/Guanabara/Aulas/aula 1.py
+pythonProject/.idea/inspectionProfiles/profiles_settings.xml
+pythonProject/.idea/misc.xml
+pythonProject/.idea/pythonProject.iml
+pythonProject/.idea/modules.xml
+pythonProject/main.py
+pythonProject1/.idea/inspectionProfiles/profiles_settings.xml
+pythonProject1/.idea/misc.xml
+pythonProject1/.idea/modules.xml
+pythonProject1/.idea/pythonProject1.iml
+pythonProject1/main.py

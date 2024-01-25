@@ -1,0 +1,2 @@
+Este é o conteúdo que será gravado no arquivo.
+Outra linha de conteúdo.
